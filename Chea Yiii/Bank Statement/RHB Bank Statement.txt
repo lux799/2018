@@ -1,0 +1,113 @@
+*                                                   Branch:    2
+            19/07/16                                   RHB City Mall Olympic Branch                                      1
+    MR CHEA YI                                      A/C NO:     1010002000007271
+    #384, ST. NUMBER1, PHUM TOUL THNOUL,                                               CASH                         57,257.06-
+    KHUM. KOR KI, KIEN SVAY, KANDUAL                                                   HOLD AMOUNT                        .00
+    00000 -
+                                                                                       TOTAL BALANCE                57,257.06-
+                                 PRODUCT DESCRIPTION: CA-Individual-USD-R
+       1/01/16                         PREVIOUS STMT BAL                                                                 57,378.45-
+       5/01/16              35         CA CSH DEP                                       .00             4,000.00         53,378.45-
+       6/01/16       699003424         ATM CA CASH WD                              3,000.00-                 .00         56,378.45-
+       9/01/16       699005838         ATM CA CASH WD                              1,000.00-                 .00         57,378.45-
+      16/01/16       699009240         ATM CA CASH WD                              1,000.00-                 .00         58,378.45-
+      17/01/16       697009541         CAM CA DEPOSIT                                   .00             4,800.00         53,578.45-
+      19/01/16       318517            CA CHK WDRL CSH                             4,000.00-                 .00         57,578.45-
+      26/01/16              29         CA CSH DEP                                       .00             2,000.00         55,578.45-
+      26/01/16       705000181         CAM CA DEPOSIT                                   .00             2,000.00         53,578.45-
+      26/01/16             120         LN TRF REPMT A-CA                           3,099.64-                 .00         56,678.09-
+      28/01/16       707001047         ATM CA CASH WD                              2,000.00-                 .00         58,678.09-
+      31/01/16              98         OD INTEREST CHARGE                            411.14-                 .00         59,089.23-
+      31/01/16              99         COMMITMENT FEE                                  2.44-                 .00         59,091.67-
+       4/02/16       711003122         ATM CA CASH WD                                800.00-                 .00         59,891.67-
+      16/02/16              11         CA CSH DEP                                       .00             5,000.00         54,891.67-
+      18/02/16       711011609         ATM CA CASH WD                              3,000.00-                 .00         57,891.67-
+      25/02/16              18         CA CSH DEP                                       .00             5,000.00         52,891.67-
+      26/02/16              17         AFT CA TRF LN-(CQ)                          3,099.64-                 .00         55,991.31-
+      26/02/16              12         CA CSH DEP                                       .00            30,000.00         25,991.31-
+      29/02/16       318518            CA CHK WDRL CSH                            12,000.00-                 .00         37,991.31-
+      29/02/16              85         OD INTEREST CHARGE                            366.90-                 .00         38,358.21-
+      29/02/16              86         COMMITMENT FEE                                  4.37-                 .00         38,362.58-
+       4/03/16       318519            CA CHK WDRL CSH                            10,000.00-                 .00         48,362.58-
+       5/03/16       715005045         CAM CA DEPOSIT                                   .00             7,800.00         40,562.58-
+       7/03/16              91         CA CSH DEP                                       .00             7,000.00         33,562.58-
+       9/03/16       318520            CA CHK WDRL CSH                             8,000.00-                 .00         41,562.58-
+      15/03/16       713011748         ATM CA CASH WD                              3,000.00-                 .00         44,562.58-
+      19/03/16       715013540         ATM CA CASH WD                              2,000.00-                 .00         46,562.58-
+      21/03/16       713014963         ATM CA CASH WD                              3,000.00-                 .00         49,562.58-
+      23/03/16              27         CA CSH DEP                                       .00            15,000.00         34,562.58-
+*                                                   Branch:    2
+            19/07/16                                   RHB City Mall Olympic Branch                                      2
+    MR CHEA YI                                      A/C NO:     1010002000007271
+    #384, ST. NUMBER1, PHUM TOUL THNOUL,                                               CASH                         57,257.06-
+    KHUM. KOR KI, KIEN SVAY, KANDUAL                                                   HOLD AMOUNT                        .00
+    00000 -
+                                                                                       TOTAL BALANCE                57,257.06-
+      23/03/16              28         CA CSH DEP                                       .00             5,000.00         29,562.58-
+      23/03/16       318521            CA CHK WDRL CSH                            14,100.00-                 .00         43,662.58-
+      24/03/16       713016365         ATM CA CASH WD                              2,000.00-                 .00         45,662.58-
+      26/03/16              17         AFT CA TRF LN-(CQ)                          3,099.64-                 .00         48,762.22-
+      26/03/16       318522            CA CHK WDRL CSH                             6,000.00-                 .00         54,762.22-
+      31/03/16              71         OD INTEREST CHARGE                            324.00-                 .00         55,086.22-
+      31/03/16              72         COMMITMENT FEE                                 12.70-                 .00         55,098.92-
+       4/04/16       718002764         ATM CA CASH WD                              3,000.00-                 .00         58,098.92-
+       5/04/16              49         CA CSH DEP                                       .00             7,000.00         51,098.92-
+       6/04/16       718005413         ATM CA CASH WD                              2,000.00-                 .00         53,098.92-
+       7/04/16       718006341         ATM CA CASH WD                              1,000.00-                 .00         54,098.92-
+       8/04/16       718007142         ATM CA CASH WD                              3,000.00-                 .00         57,098.92-
+      19/04/16       718012669         ATM CA CASH WD                              1,000.00-                 .00         58,098.92-
+      20/04/16              57         CA CSH DEP                                       .00             8,000.00         50,098.92-
+      21/04/16       718013449         ATM CA CASH WD                              2,000.00-                 .00         52,098.92-
+      22/04/16              27         CA TRF ACCT                                 3,000.00-                 .00         55,098.92-
+      23/04/16       718014789         ATM CA CASH WD                              2,000.00-                 .00         57,098.92-
+      25/04/16       717015567         CAM CA DEPOSIT                                   .00             1,000.00         56,098.92-
+      26/04/16              20         AFT CA TRF LN-(CQ)                          3,099.64-                 .00         59,198.56-
+      30/04/16              68         OD INTEREST CHARGE                            392.82-                 .00         59,591.38-
+      30/04/16              69         COMMITMENT FEE                                  2.96-                 .00         59,594.34-
+       3/05/16              32         CA CSH DEP                                       .00            25,000.00         34,594.34-
+       5/05/16       318523            CA CHK WDRL CSH                             6,000.00-                 .00         40,594.34-
+       9/05/16       318524            CA CHK WDRL CSH                             6,000.00-                 .00         46,594.34-
+       9/05/16              40         CA CSH DEP                                       .00             5,000.00         41,594.34-
+      10/05/16       723007635         ATM CA CASH WD                              3,000.00-                 .00         44,594.34-
+      12/05/16       318525            CA CHK WDRL CSH                             7,000.00-                 .00         51,594.34-
+      14/05/16       723009831         ATM CA CASH WD                              1,000.00-                 .00         52,594.34-
+      23/05/16       723013538         ATM CA CASH WD                              3,000.00-                 .00         55,594.34-
+      26/05/16              19         AFT CA TRF LN-(CQ)                          3,099.64-                 .00         58,693.98-
+*                                                   Branch:    2
+            19/07/16                                   RHB City Mall Olympic Branch                                      3
+    MR CHEA YI                                      A/C NO:     1010002000007271
+    #384, ST. NUMBER1, PHUM TOUL THNOUL,                                               CASH                         57,257.06-
+    KHUM. KOR KI, KIEN SVAY, KANDUAL                                                   HOLD AMOUNT                        .00
+    00000 -
+                                                                                       TOTAL BALANCE                57,257.06-
+      31/05/16              66         OD INTEREST CHARGE                            366.24-                 .00         59,060.22-
+      31/05/16              67         COMMITMENT FEE                                  7.73-                 .00         59,067.95-
+       6/06/16              18         CA CSH DEP                                       .00             5,000.00         54,067.95-
+       8/06/16       725006158         ATM CA CASH WD                              3,000.00-                 .00         57,067.95-
+      16/06/16              79         CA TRF ACCT                                    78.28-                 .00         57,146.23-
+      22/06/16              10         CA DEBIT ADVICE                                 7.00-                 .00         57,153.23-
+      22/06/16       729001659         ATM CA CASH WD                              1,000.00-                 .00         58,153.23-
+      24/06/16              25         CA DEBIT ADVICE                               600.00-                 .00         58,753.23-
+      24/06/16              19         CA CSH DEP                                       .00             3,000.00         55,753.23-
+      27/06/16              20         AFT CA TRF LN-(CQ)                          3,099.64-                 .00         58,852.87-
+      30/06/16               4         CA CSH DEP                                       .00             4,000.00         54,852.87-
+      30/06/16            3293         OD INTEREST CHARGE                            398.95-                 .00         55,251.82-
+      30/06/16            3294         COMMITMENT FEE                                  2.24-                 .00         55,254.06-
+      30/06/16            3295         S/CHARGE                                        3.00-                 .00         55,257.06-
+      30/06/16                         CLOSING BALANCE                                                                   55,257.06-
+                                       TOTAL DEBIT/CREDIT:                       143,478.61           145,600.00
+*                                                   Branch:    2
+            19/07/16                                   RHB City Mall Olympic Branch                                      4
+    MR CHEA YI                                      A/C NO:     1010002000007271
+    #384, ST. NUMBER1, PHUM TOUL THNOUL,                                               CASH                         57,257.06-
+    KHUM. KOR KI, KIEN SVAY, KANDUAL                                                   HOLD AMOUNT                        .00
+    00000 -
+                                                                                       TOTAL BALANCE                57,257.06-
+                                    FIXED DEPOSIT (USD) INTEREST RATE (%)
+                                       MONTHS     RATE
+                                        1             2.00
+                                        2             2.25
+                                        3             2.50
+                                        6             3.50
+                                        9             4.25
+                                       12 - 36        4.75
